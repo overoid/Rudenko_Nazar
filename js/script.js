@@ -106,4 +106,3 @@
 // }
 //
 // alert(joinArray(str));
-//10
